@@ -1,0 +1,22 @@
+#gotop {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    bottom: 50px;
+    right: 40px;
+    border-radius: 10px 10px 10px 10px;
+    text-decoration: none;
+    display: none;
+    background-color: #888888;
+}
+
+#gotop span {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    color: #ffffff;
+}
+
+#gotop span:hover {
+    color: #cccccc;
+}
